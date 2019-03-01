@@ -15,4 +15,5 @@ def reverse_each_word (sentence2)
 end
 
 def reverse_each_word (sentence3)
-  sentence ""
+  sentence3 "Verify that collect is being called."
+end
