@@ -8,7 +8,6 @@ end
 
 def reverse_each_word (sentence2)
   sentence2 = "Hi, again just making sure it's reversed!"
-  sentence2.each do |word|
-    puts sentence2.reverse
+  sentence2.split(" ").reverse.join(" ")
   end
 end
