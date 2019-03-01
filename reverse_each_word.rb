@@ -14,6 +14,5 @@ def reverse_each_word (sentence2)
   end
 end
 
-def reverse_each_word (sentence3)
+\def reverse_each_word (sentence3)
   sentence3 = "Verify that collect is being called."
-end
