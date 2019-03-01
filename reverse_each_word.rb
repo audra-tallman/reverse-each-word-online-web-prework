@@ -13,6 +13,3 @@ def reverse_each_word (sentence2)
     puts sentence2.reverse
   end
 end
-
-\def reverse_each_word (sentence3)
-  sentence3 = "Verify that collect is being called."
