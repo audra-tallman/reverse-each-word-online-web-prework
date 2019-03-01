@@ -6,4 +6,7 @@ def reverse_each_word(sentence1)
     puts sentence1.reverse
 end
 end
-    
+
+def reverse_each_word (sentence2)
+  sentence2 = "Hi, again just making sure it's reversed!"
+  sentenc2. 
