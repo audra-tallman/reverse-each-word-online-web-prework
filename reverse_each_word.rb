@@ -1,9 +1,9 @@
 
 
 def reverse_each_word(sentence)
-  sentence.split("")
+  sentence.split.
   sentence1 = "Hello there, and how are you?"
-  sentence1.split(" ").reverse.join(" ")
+  sentence1.split().reverse.join(" ")
 end
 
 def reverse_each_word (sentence2)
